@@ -1,5 +1,5 @@
 const express = require('express');
-const mysql = require('mysql');
+const mysql = require('mysql2');
 const moment = require('moment');
 const qs = require('qs');
 const fs = require('fs');

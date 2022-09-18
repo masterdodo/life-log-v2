@@ -87,6 +87,7 @@ Express application for logging life
 - DB connection timeout: https://stackoverflow.com/questions/20210522/nodejs-mysql-error-connection-lost-the-server-closed-the-connection
 - MySQL - datetime difference: https://stackoverflow.com/a/981321
 - MySQL - select only date from datetime: https://stackoverflow.com/questions/9032047/how-to-select-only-date-from-a-datetime-field-in-mysql
+- MySQL - client doesn't support auth protocol: https://stackoverflow.com/a/56509065
 
 # Other
 - php-fpm sock problem: https://stackoverflow.com/questions/29859131/unable-to-bind-listening-socket-for-address-php-fpm
